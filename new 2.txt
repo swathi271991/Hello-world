@@ -1,0 +1,17 @@
+cucumber is a testing tool which support BDD framwork.
+
+In Cucumber BDD, whatever you write must go into Given-When-Then steps
+
+Given
+When
+Then
+
+Advantages
+
+its easy to install and use
+the stakeholder who doesnt have technical knowldge can easily understand the testcases
+the test cases developed can be reused in the program anywhere
+eff testing tool
+it always focus on end user experience
+
+
